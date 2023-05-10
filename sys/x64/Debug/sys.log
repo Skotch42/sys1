@@ -1,0 +1,111 @@
+﻿  sys.cpp
+C:\Users\vlado\source\repos\sys\sys.cpp(18,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(20,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(20,9): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(20,9): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(21,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\vlado\source\repos\sys\sys.cpp(21,3): error C2065: 'cmp': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(21,9): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(21,9): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(22,3): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\vlado\source\repos\sys\sys.cpp(22,3): error C2065: 'je': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(22,6): error C2146: syntax error: missing ';' before identifier 'L'
+C:\Users\vlado\source\repos\sys\sys.cpp(22,6): error C2065: 'L': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(22,9): error C3861: 'je': identifier not found
+C:\Users\vlado\source\repos\sys\sys.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(23,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(23,9): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'L'
+C:\Users\vlado\source\repos\sys\sys.cpp(24,7): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(24,13): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\vlado\source\repos\sys\sys.cpp(24,16): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(25,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\vlado\source\repos\sys\sys.cpp(28,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(30,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(30,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(30,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(31,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(31,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\vlado\source\repos\sys\sys.cpp(31,7): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(33,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\vlado\source\repos\sys\sys.cpp(33,3): error C2065: 'add': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(33,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(33,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(33,12): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(35,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(35,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(35,7): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\vlado\source\repos\sys\sys.cpp(35,10): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(36,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\vlado\source\repos\sys\sys.cpp(40,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(42,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(42,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(42,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(43,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(43,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(43,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\vlado\source\repos\sys\sys.cpp(43,7): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(45,3): error C2146: syntax error: missing ';' before identifier 'sub'
+C:\Users\vlado\source\repos\sys\sys.cpp(45,3): error C2065: 'sub': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(45,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(45,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(45,12): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(47,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(47,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(47,7): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\vlado\source\repos\sys\sys.cpp(47,10): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(48,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\vlado\source\repos\sys\sys.cpp(52,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(54,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(54,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(54,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(55,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(55,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(55,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\vlado\source\repos\sys\sys.cpp(55,7): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(57,3): error C2146: syntax error: missing ';' before identifier 'mul'
+C:\Users\vlado\source\repos\sys\sys.cpp(57,3): error C2065: 'mul': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(57,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\vlado\source\repos\sys\sys.cpp(57,7): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(59,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(59,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(59,7): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\vlado\source\repos\sys\sys.cpp(59,10): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(60,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\vlado\source\repos\sys\sys.cpp(64,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(66,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(66,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(66,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(67,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(67,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(67,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\vlado\source\repos\sys\sys.cpp(67,7): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(68,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(68,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(68,7): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\vlado\source\repos\sys\sys.cpp(68,7): error C2065: 'edx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(70,3): error C2146: syntax error: missing ';' before identifier 'div'
+C:\Users\vlado\source\repos\sys\sys.cpp(70,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\vlado\source\repos\sys\sys.cpp(70,3): warning C4551: function call missing argument list
+C:\Users\vlado\source\repos\sys\sys.cpp(70,7): error C2065: 'ebx': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(72,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(72,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(72,7): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\vlado\source\repos\sys\sys.cpp(72,10): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(73,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\vlado\source\repos\sys\sys.cpp(79,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(81,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(81,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\vlado\source\repos\sys\sys.cpp(81,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(83,3): error C2143: syntax error: missing ';' before '!'
+C:\Users\vlado\source\repos\sys\sys.cpp(83,7): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(85,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\vlado\source\repos\sys\sys.cpp(85,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(85,7): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\vlado\source\repos\sys\sys.cpp(85,10): error C2065: 'eax': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(86,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\vlado\source\repos\sys\sys.cpp(89,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\vlado\source\repos\sys\sys.cpp(91,3): error C2065: 'mov': undeclared identifier
+C:\Users\vlado\source\repos\sys\sys.cpp(91,10): fatal  error C1003: error count exceeds 100; stopping compilation

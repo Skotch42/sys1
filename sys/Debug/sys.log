@@ -1,0 +1,4 @@
+﻿  sys.cpp
+C:\Users\vlado\source\repos\sys\sys.cpp(254,3): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\vlado\source\repos\sys\sys.cpp(263,10): warning C4101: 'result': unreferenced local variable
+  sys.vcxproj -> C:\Users\vlado\source\repos\sys\Debug\sys.exe
